@@ -1,0 +1,14 @@
+# lab3_team
+10weeks teamproject
+
+요구사항
+1. "exit"를 치면 프로그램을 끝내도록 프로그램을 수정하시오
+2. csh, bash 등에서처럼 쉘 명령의 마지막에 '&'을 입력하면 백그라운드로 실행되도록 프로그램을 수정하시오
+3. csh, bash 등에서처럼 인터럽트키 (SIGINT: Ctrl-C, SIGQUIT: Ctrl-Z) 가 동작하도록 프로그램을 수정하시오
+4. 파일 재지향 (>, <) 기능이 가능하도록 프로그램을 수정하시오
+5. ls, pwd, cd, mkdir, rmdir, ln, cp, rm, mv, cat 명령을 팀원이 공평하게 나누어 구현하시오
+
+작업자
+Sanghong Lee(aks103@naver.com)
+
+Sumin Lee(nicksumin97@naver.com)
